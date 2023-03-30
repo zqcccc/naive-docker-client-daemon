@@ -1,0 +1,1 @@
+docker build -t naive-client-daemon -f Dockerfile .
